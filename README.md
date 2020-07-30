@@ -2,8 +2,8 @@
 
 ## What I'm Using ##
 ### Coder/IDE ###
-<img src="https://user-images.githubusercontent.com/5023924/88967662-bfd99080-d273-11ea-998f-8284c31b61db.png" height="25" align="left" />[PhpStorm](https://www.jetbrains.com/phpstorm)  
-<img src="https://user-images.githubusercontent.com/5023924/88967585-a0dafe80-d273-11ea-9f61-a449915c2e90.png" height="25" align="left" />[Visual Studio](https://code.visualstudio.com)
+- <img src="https://user-images.githubusercontent.com/5023924/88967662-bfd99080-d273-11ea-998f-8284c31b61db.png" height="25" align="left" />[PhpStorm](https://www.jetbrains.com/phpstorm) 
+- <img src="https://user-images.githubusercontent.com/5023924/88967585-a0dafe80-d273-11ea-9f61-a449915c2e90.png" height="25" align="left" />[Visual Studio](https://code.visualstudio.com)
 
 ### Operating System ###
 - <img src="https://user-images.githubusercontent.com/5023924/88967499-86a12080-d273-11ea-9698-591f0302ef14.jpg" height="25" align="left" />[macOS](https://www.apple.com/macos)
