@@ -14,13 +14,13 @@
 - <img src="https://user-images.githubusercontent.com/5023924/88967291-31fda580-d273-11ea-83fd-cd75bbff9c22.png" height="25" align="left" />Chrome (when I must)
 
 ### Bookmark Manager ###
-:bookmark: [Raindrop.io](https://raindrop.io)
+<img src="https://user-images.githubusercontent.com/5023924/88968036-4c844e80-d274-11ea-828c-392856d2e0a0.png" height="25" align="left" />[Raindrop.io](https://raindrop.io)
 
 ### Notes App ###
-:notebook: [Bear](https://bear.app)
+<img src="https://user-images.githubusercontent.com/5023924/88968150-83f2fb00-d274-11ea-89ff-2a5af44e1af0.jpg" height="25" align="left" />[Bear](https://bear.app)
 
 ### Email App ###
-:email: [Spark](https://sparkmailapp.com)
+<img src="https://user-images.githubusercontent.com/5023924/88968034-4c844e80-d274-11ea-8139-5ca8c69b546a.png" height="25" align="left" />[Spark](https://sparkmailapp.com)
 
 
 <!--
