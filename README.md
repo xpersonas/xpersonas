@@ -25,6 +25,14 @@
 ### Email App ###
 - <img src="https://user-images.githubusercontent.com/5023924/88968034-4c844e80-d274-11ea-8139-5ca8c69b546a.png" height="25" align="left" />[Spark](https://sparkmailapp.com)
 
+## Sample of Sites Built ##
+- [eisforeveryone.com](https://eisforeveryone.com)
+- [visitevansville.com](https://visitevansville.com)
+- [benelliusa.com](https://www.benelliusa.com)
+- [realtree.com](https://www.realtree.com)
+- [accuridecorp.com](https://www.accuridecorp.com)
+- [pisupply.com](https://pisupply.com)
+- [allinthefamilydental.com](https://allinthefamilydental.com)
 
 <!--
 **xpersonas/xpersonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
