@@ -11,7 +11,9 @@
 
 ### Browser ###
 - <img src="https://user-images.githubusercontent.com/5023924/88966966-c6b3d380-d272-11ea-9be3-6342012e0584.png" height="25" align="left" />[Firefox](https://www.mozilla.org/en-US/firefox) (work)
+
 - <img src="https://user-images.githubusercontent.com/5023924/88966968-c74c6a00-d272-11ea-829f-55d5e74ba14a.png" height="25" align="left" />[Safari](https://www.apple.com/safari) (personal)
+
 - <img src="https://user-images.githubusercontent.com/5023924/88967291-31fda580-d273-11ea-83fd-cd75bbff9c22.png" height="25" align="left" />Chrome (when I must)
 
 ### Bookmark Manager ###
