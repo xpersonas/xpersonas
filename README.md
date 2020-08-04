@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/5023924/89058999-fc65c480-d325-11ea-92d8-c9927654913b.png" />
+<img src="https://user-images.githubusercontent.com/5023924/89341007-445a5380-d666-11ea-86ec-c3fd77a8ca18.png" />
 
 ## What I'm Using ##
 ### Coder/IDE ###
