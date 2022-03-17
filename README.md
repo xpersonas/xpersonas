@@ -76,7 +76,7 @@
       <td align="center">
         <a href="https://raindrop.io" rel="nofollow">
           <img src="https://user-images.githubusercontent.com/5023924/88968036-4c844e80-d274-11ea-828c-392856d2e0a0.png" width="100px;" alt="Raindrop.io" style="max-width:100%;"><br>
-          PhpStorm<br>
+          Raindrop.io<br>
         </a>
     </tr>
   </tbody>
