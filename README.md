@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/5023924/89341007-445a5380-d666-11ea-86ec-c3fd77a8ca18.png" />
+<img src="https://github.com/xpersonas/movie-app/assets/5023924/41b75f3a-7bee-4457-976f-e3a5532f6c63" />
 
 ![xpersonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpersonas&count_private=true&show_icons=true&theme=tokyonight)
 
