@@ -1,4 +1,4 @@
-<img src="https://github.com/xpersonas/movie-app/assets/5023924/41b75f3a-7bee-4457-976f-e3a5532f6c63" />
+<img src="https://github.com/xpersonas/xpersonas/blob/master/SCR-20260117-kykx.jpeg" />
 
 
 > Full-stack developer focused on the space between UI, CMS, and architecture.
